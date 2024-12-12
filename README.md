@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a developer full stack.
 - **Tools**: [Git, Docker]
 
 
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m currently learning Java ( Spring Boot )
+- 👀 I’m interested in Web-authn, cryptocurrency dev 
 <!--
 **shyguy81/shyguy81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
