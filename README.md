@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ## 📫 Get in Touch
 - [Website](https://teddyjeanbaptiste.dev)
-- [LinkedIn](https://www.linkedin.com/in/teddyjeanbaptiste)
+- [LinkedIn](https://www.linkedin.com/in/teddy-jeanbaptiste)
