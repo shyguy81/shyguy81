@@ -1,5 +1,13 @@
 ## Hi there 👋
+Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a web developer specializing in Symfony Framework.
 
+## 🛠️ My Skills
+- **Languages**: [JavaScript, Python, PHP, C#, Java]
+- **Frameworks**: [ReactJS, TypeScript, Symfony, Wordpress]
+- **Tools**: [Git, Docker]
+
+
+- 🌱 I’m currently learning Java Spring Boot
 <!--
 **shyguy81/shyguy81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyguy81&show_icons=true&theme=dark)
+
+## 📫 Get in Touch
+- [Website](https://teddyjeanbaptiste.dev)
+- [LinkedIn](https://www.linkedin.com/in/teddyjeanbaptiste)
