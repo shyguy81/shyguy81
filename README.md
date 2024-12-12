@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a web developer specializing in Symfony Framework.
+Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a developer full stack.
 
 ## 🛠️ My Skills
 - **Languages**: [JavaScript, Python, PHP, C#, Java]
