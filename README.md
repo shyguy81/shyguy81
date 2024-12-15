@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a developer full stack.
 - **Frameworks**: [ReactJS, TypeScript, Symfony, Wordpress]
 - **Tools**: [Git, Docker] 
 
-[![Use Copilot with Visual Studio Code](https://img.shields.io/badge/Utilise%20Copilot%20pour-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
+[![Use Copilot with Visual Studio Code](https://img.shields.io/badge/Use%20Copilot%20with-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
 
 
 
