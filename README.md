@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a developer full stack.
 
 [![Use Copilot with Visual Studio Code](https://img.shields.io/badge/Use%20Copilot%20with-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
 
-[![Wakatime User](https://img.shields.io/badge/Wakatime-User-brightgreen?style=plastic&color=blue)](https://wakatime.com/@fff7f3bf-785c-4bb6-a244-2c00b3f7cfb6)
+[![wakatime](https://wakatime.com/badge/user/fff7f3bf-785c-4bb6-a244-2c00b3f7cfb6.svg)](https://wakatime.com/@fff7f3bf-785c-4bb6-a244-2c00b3f7cfb6)
 
 
 - 🌱 I’m currently learning Java ( Spring Boot ), Stable diffusion, Rust
