@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a full-stack developer.
 
 ## 🛠️ My Skills
 - **Languages**: [JavaScript, PHP, C#, Java]
-- **Frameworks**: [ReactJS, TypeScript, Symfony, Wordpress]
+- **Frameworks**: [nextJS (React/ Typescript), Symfony, Wordpress]
 - **Tools**: [Git, Docker, Figma] 
 
 [![Use Copilot with Visual Studio Code](https://img.shields.io/badge/Use%20Copilot%20with-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
