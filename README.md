@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a developer full stack.
+Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a full-stack developer.
 
 ## 🛠️ My Skills
 - **Languages**: [JavaScript, PHP, C#, Java]
