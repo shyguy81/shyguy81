@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 ## 📫 Get in Touch
 - [Website](https://teddyjeanbaptiste.dev)
 - [LinkedIn](https://www.linkedin.com/in/teddy-jeanbaptiste)
+- [Wakatime](https://wakatime.com/@fff7f3bf-785c-4bb6-a244-2c00b3f7cfb6)
