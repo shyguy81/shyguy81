@@ -2,9 +2,9 @@
 Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a full-stack developer.
 
 ## 🛠️ My Skills
-- **Languages**: [JavaScript, PHP, C#, Java]
-- **Frameworks**: [nextJS (React/ Typescript), Symfony, Wordpress]
-- **Tools**: [Git, Docker, Figma] 
+- **Languages**: [JavaScript, PHP, C#, Java, Python]
+- **Frameworks**: [nextJS (React/ Typescript), Symfony, Wordpress, CrewAI]
+- **Tools**: [Git, Docker, Figma, Ollama] 
 
 [![Use Copilot with Visual Studio Code](https://img.shields.io/badge/Use%20Copilot%20with-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Teddy JEAN-BAPTISTE, a full-stack developer.
 
 
 - 🌱 I’m currently learning Java ( Spring Boot ), Stable diffusion, Rust
-- 👀 I’m interested in Web-authn, CryptoDev, ML
+- 👀 I’m interested in Web-authn, CryptoDev, ML, MCP
 <!--
 **shyguy81/shyguy81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
